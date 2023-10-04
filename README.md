@@ -1,5 +1,7 @@
 <div align="center">
-  ## Rick Asthley - Never gonna give you up
+  <h1>
+    Rick Asthley - Never gonna give you up
+  </h1>
 </div>
 
 <div align="center">
