@@ -13,7 +13,7 @@
     lyrics
   </h2>
   <p>
-    We're no strangers to love
+    We're no strangers to love <br>
     You know the rules and so do I (do I)
     A full commitment's what I'm thinking of
     You wouldn't get this from any other guy
