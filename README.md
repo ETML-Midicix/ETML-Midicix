@@ -69,3 +69,7 @@
     Never gonna tell a lie and hurt you <br>
   </p>
 </div>
+
+
+###About Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETML-Midicix&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="Statistics about used languages">
