@@ -1,3 +1,9 @@
+<a href="https://github.com/Midicix/wanted-readme">
+  <div align=center>
+    <img src="https://midi-api-visitcard.vercel.app/ETML-Midicix" alt="stats from repos https://github.com/Midicix/wanted-readme"/>
+  </div>
+</a>
+
 <div align=center>
   <img src="https://github-stats-alpha.vercel.app/api?username=ETML-Midicix&cc=000&tc=fff&ic=fff&bc=000" alt="stats from repos https://github.com/tuhinpal/readme-stats-github"/>
 </div>
